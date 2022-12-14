@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashwin
 - 👀 I’m interested in 
-- 🌱 I’m currently learning Flutter app development, data analysis
+- 🌱 I’m currently learning product management and product/ data analytics
 - 💞️ I’m looking to collaborate on native app development or data science projects
 - 📫 How to reach me ...
 
